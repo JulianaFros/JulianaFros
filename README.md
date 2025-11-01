@@ -45,24 +45,9 @@
 ---
 
 <!-- DEMON HUNTER ZONE -->
-<p align="center">
-  <!-- неоновый разделитель (inline SVG, файл не нужен) -->
-  <img
-    src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 4' preserveAspectRatio='none'><defs><linearGradient id='g' x1='0' x2='1'><stop stop-color='%2300ff88' offset='0'/><stop stop-color='%2300c16a' offset='1'/></linearGradient></defs><rect x='0' y='0' width='100' height='4' rx='2' fill='url(%23g)'/></svg>"
-    width="100%" height="6" alt="fel divider"
-  />
-</p>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/JulianaFros/JulianaFros/main/wow_coder.png" alt="Night Elf Coder" width="500"/>
 
   <br/>
   <i>Кодирую на скверне и React ⚔️💚</i>
 </div>
-
-<p align="center">
-  <img
-    src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 4' preserveAspectRatio='none'><defs><linearGradient id='g' x1='0' x2='1'><stop stop-color='%2300c16a' offset='0'/><stop stop-color='%2300ff88' offset='1'/></linearGradient></defs><rect x='0' y='0' width='100' height='4' rx='2' fill='url(%23g)'/></svg>"
-    width="100%" height="6" alt="fel divider"
-  />
-</p>
