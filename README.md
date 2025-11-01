@@ -16,6 +16,14 @@
 
 ---
 
+### 🛠️ Мои инструменты
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
 ### 🧩 Мои учебные проекты
 ...
 
@@ -42,9 +50,15 @@
 
 ---
 
+### 📊 Статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianaFros&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaFros&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
 ---
 
-<!-- DEMON HUNTER ZONE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/JulianaFros/JulianaFros/main/wow_coder.png" alt="Night Elf Coder" width="500"/>
 
