@@ -44,6 +44,8 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuliaFrosina&show_icons=true&theme=default&hide_title=true" />
+  <img src="https://raw.githubusercontent.com/YuliaFrosina/YuliaFrosina/main/wow-coder.png" alt="Night Elf Coder" width="500"/>
 </p>
