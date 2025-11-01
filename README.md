@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YuliaFrosina/YuliaFrosina/main/wow-coder.png" alt="Night Elf Coder" width="500"/>
+  <img src="https://raw.githubusercontent.com/YuliaFrosina/YuliaFrosina/main/wow_coder.png" alt="Night Elf Coder" width="500"/>
 </p>
