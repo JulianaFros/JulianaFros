@@ -52,8 +52,6 @@
 
 ### 📊 Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianaFros&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="GitHub stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaFros&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
